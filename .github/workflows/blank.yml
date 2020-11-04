@@ -26,6 +26,5 @@ jobs:
         with:
          who-to-greet: 'input_str1'
          
-      - uses: lvyingde51/rain-test-hello-world-docker-action@11
-        with:
-         who-to-greet: 'input_str1'
+
+
